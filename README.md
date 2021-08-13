@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Pedro Ceolato
 
 
-📚Cursando ADS
-
+📚Cursando ADS<br>
 😄Estudando Front-end
