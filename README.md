@@ -1,6 +1,6 @@
 ### Olá! 
 ### Bem vindo a minha pagina!<br>
-Sou Pedro  e tenho 19 anos!
+I'm Pedro and I'm 19 years old!
 
-- 🌱Cursando ADS<br>
-- 🖥Estudando Front-end
+- 🌱Studying ADS<br>
+- 🖥Studying Web Front-end 
