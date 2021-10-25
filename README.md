@@ -1,5 +1,5 @@
-### Olá! 
-### Bem vindo a minha pagina!<br>
+### Hi! 
+### Welcome to my page!<br>
 I'm Pedro and I'm 19 years old!
 
 - 🌱Studying ADS<br>
