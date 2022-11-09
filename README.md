@@ -3,7 +3,7 @@
 I'm Pedro and I'm 20 years old!
 
 - 🌱Studying ADS<br>
-- 🖥Full-Stack Web Developer
+- 🖥Web Developer
 
 
 ## 🛠 &nbsp;Tech 
