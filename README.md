@@ -1,6 +1,6 @@
 ### Hi! 
 ### Welcome to my page!<br>
-I'm Pedro and I'm 21 years old!
+I'm Pedro and I'm 22 years old!
 
 - 🌱Studying ADS<br>
 - 🖥Web Developer
