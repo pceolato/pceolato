@@ -2,7 +2,6 @@
 ### Welcome to my page!<br>
 I'm Pedro and I'm 22 years old!
 
-- 🌱Studying ADS<br>
 - 🖥Web Developer
 
 
@@ -10,7 +9,8 @@ I'm Pedro and I'm 22 years old!
 
 <code><img height="32" src="https://br.vuejs.org/images/logo.png" alt="Vue"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="NextJS"/></code>
+<code><img height="28" src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/java-adesivo-sticker.png" alt="Java"/></code>
+<code><img height="32" src="https://media.licdn.com/dms/image/D4D12AQF0fHwHAcCYbg/article-cover_image-shrink_720_1280/0/1692265098747?e=2147483647&v=beta&t=Ii_854iC-ekGld_IuoiLgq3WU58i4HMMZrxQRQeuzAk" alt="NextJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
